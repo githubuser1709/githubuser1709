@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul
+- 👋 Hi, I’m @Swaroop Rahul
 - 👀 I’m interested in playing chess
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on GDSC
